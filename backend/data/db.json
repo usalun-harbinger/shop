@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "f2357c92-6df0-4145-b138-362e0abd2647",
+      "name": "Uday",
+      "email": "uday@example.com",
+      "passwordHash": "$2a$10$m59uaO0KVd3/EFAznns2DuhARmTSpVR5gVRSgQVnvR2lDYBlnwJIG",
+      "createdAt": "2026-03-08T10:20:21.345Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "fe9541ae-756d-4f6f-a3c3-49b48a4ba24a",
+      "userId": "f2357c92-6df0-4145-b138-362e0abd2647",
+      "name": "DaviDoff",
+      "description": "dcndk sfds fsj",
+      "price": 252,
+      "createdAt": "2026-03-08T10:21:20.083Z",
+      "updatedAt": "2026-03-08T10:21:20.083Z"
+    },
+    {
+      "id": "2c4f4636-9535-4d0f-968f-33b26e6c6b20",
+      "userId": "f2357c92-6df0-4145-b138-362e0abd2647",
+      "name": "Iphone",
+      "description": "hlidas; aldla",
+      "price": 123,
+      "createdAt": "2026-03-08T10:33:16.482Z",
+      "updatedAt": "2026-03-08T10:33:24.205Z"
+    }
+  ]
+}
